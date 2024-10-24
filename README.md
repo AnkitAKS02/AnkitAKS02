@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkitAKS02
 - 👀 I’m interested in Web Devlopment .
-- 🌱 I’m currently learning frontend web devlopment
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning frontend web devlopment and c++ language
+- 💞️ I’m looking to collaborate on any web Dev projects 
 - 📫 How to reach me ...
 
 <!---
